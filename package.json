@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mariromana/food_dist#readme",
   "devDependencies": {
     "json-server": "^0.17.1"
+  },
+  "dependencies": {
+    "jslint": "^0.12.1"
   }
 }
